@@ -19,3 +19,10 @@ Used in
 - game development
 - 
 
+
+
+Cycle in java
+1. Program saved with file.java
+2. compiler converts to bytecode i.e. file.class
+3. JVM reads the converted file and interprets byte code
+4. 
